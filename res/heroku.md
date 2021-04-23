@@ -7,7 +7,7 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 #### The Easiest Way [ Heroku ONLY ]
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SpEcHiDe/NoPMsBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vckyou/ResponChatOtomatis)
 
 
 ## Credits, and Thanks to
