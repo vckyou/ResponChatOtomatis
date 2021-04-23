@@ -74,7 +74,7 @@ ONLINE_CHECK_START_TEXT = get_config(
     "ONLINE_CHECK_START_TEXT",
     (
         "Sistem berfungsi <b>master</b>\n"
-        "Jangan lupa Follow [Channel Support](https://t.me/Vckyouuu)"
+        "Jangan lupa join [Channel Support](https://t.me/Vckyouuu)"
     )
 )
 # message to indicate,
@@ -84,7 +84,7 @@ DELETED_MESSAGES_NOTIFICATION_TEXT = get_config(
     "DELETED_MESSAGES_NOTIFICATION_TEXT",
     (
         "Pesan ini sudah dihapus\n"
-        "Jangan lupa Follow [Channel Support](https://t.me/Vckyouuu)"
+        "Jangan lupa Join [Channel Support](https://t.me/Vckyouuu)"
     )
 )
 # IDEKWBYRW
