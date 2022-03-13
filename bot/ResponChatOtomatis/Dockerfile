@@ -10,7 +10,7 @@ ENV PIP_NO_CACHE_DIR 1
 # https://github.com/SpEcHiDe/PublicLeech/pull/97
 ENV LANG C.UTF-8
 
-# we don't have an interactive xTerm
+# we don't have an interactive
 ENV DEBIAN_FRONTEND noninteractive
 
 # fix "ephimeral" / "AWS" file-systems
@@ -29,5 +29,3 @@ RUN pip3 install --no-cache-dir -r requirements.txt
 
 # specifies what command to run within the container.
 CMD ["python3", "-m", "bot"]
-
-h
